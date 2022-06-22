@@ -2,9 +2,8 @@
 
 ---
 
-- 👋 Hello, I’m @jloftw.
 - 👀 I’m interested in programming, videogames, movies, and reading.
-- 🌱 I’m currently studying a Bachelor's Degree in Computer Science and I am in my 6th semester.
+- 📚 I’m currently studying a Bachelor's Degree in Computer Science and I am in my 6th semester.
 
 ## Languages and Technologies
 <table>
