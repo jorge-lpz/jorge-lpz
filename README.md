@@ -5,7 +5,6 @@
 - 👋 Hello, I’m @jloftw.
 - 👀 I’m interested in programming, videogames, movies, and reading.
 - 🌱 I’m currently studying a Bachelor's Degree in Computer Science and I am in my 6th semester.
-- 🐸 I enjoy learning new tools and techonlogies that help me grow in the fields that I'm interested in, and these fields are front end and video games development.
 
 ## Languages and Technologies
 <table>
