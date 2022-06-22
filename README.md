@@ -21,3 +21,4 @@
 ## Stats
 ---
 [![jloftw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jloftw&count_private=true&show_icons=true&theme=synthwave)](https://github.com/jloftw)
+[![jloftw](https://github-readme-stats.vercel.app/api/top-langs/?username=jloftw)](https://github.com/jloftw)
