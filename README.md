@@ -19,9 +19,9 @@
 
 ## Stats
 
-[![jloftw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jloftw&count_private=true&show_icons=true&theme=synthwave)](https://github.com/jloftw)
+[![jloftw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-lpz&count_private=true&show_icons=true&theme=synthwave)](https://github.com/jorge-lpz)
 
-[![jloftw' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jloftw&layout=compact&theme=synthwave)](https://github.com/jloftw)
+[![jloftw' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-lpz&layout=compact&theme=synthwave)](https://github.com/jorge-lpz)
 
 ## Projects
 
