@@ -42,7 +42,7 @@
   <summary>BANX Android App</summary>
   
   ### BANX Android App
-   worked on a team of 4 to develop a native android application for the Food Bank of Guadalajara. The app would allow users to donate money to the food bank as well as keep up to date with information about the food bank. We utilized Jetpack Compose to create the application and implemented Twitter and Google Maps integration using their respective apis. On this project I worked primarily on the creation of the various pages that were needed and the Google Maps integration.
+   I worked on a team of 4 to develop a native android application for the Food Bank of Guadalajara. The app would allow users to donate money to the food bank as well as keep up to date with information about the food bank. We utilized Jetpack Compose to create the application and implemented Twitter and Google Maps integration using their respective apis. On this project I worked primarily on the creation of the various pages that were needed and the Google Maps integration.
 </details>
 
 ## Contact
